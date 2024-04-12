@@ -364,6 +364,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fxGGfKX/Sony-1.png" group-title="Olahraga", Sony Sports 1
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pw30Py2/Sony2.png" group-title="Olahraga", Sony Sports 2
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zGhrqn5/sony3.png" group-title="Olahraga", Sony Sports 3
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thz0SGV/sony4.png" group-title="Olahraga", Sony Sports 4
+https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1q95dVV/sony5.png" group-title="Olahraga", Sony Sports 5
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
 #EXTINF:-1 group-title="Olahraga" tvg-logo="https://iptv.urfan.web.id/logo/beinsports.png",BeIN Sports 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
