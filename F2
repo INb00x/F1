@@ -362,7 +362,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
-
+#EXTINF:-1 tvg-logo="https://ibb.co/3CYY28T" group-title="Olahraga", SONY SPORTS 1
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 
 #EXTINF:-1 group-title="Olahraga" tvg-logo="https://iptv.urfan.web.id/logo/beinsports.png",BeIN Sports 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
